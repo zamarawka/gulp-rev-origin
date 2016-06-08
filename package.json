@@ -1,0 +1,29 @@
+{
+  "name": "gulp-rev-origin",
+  "version": "1.0.0",
+  "description": "Gulp-plugin for creating origin manifest without hash, witch pretty useful in development when you using rev-manifest in back-end.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zamarawka/gulp-rev-origin.git"
+  },
+  "keywords": [
+    "gulp-rev",
+    "revision",
+    "origin-manifest",
+    "back-end"
+  ],
+  "author": "zamarawka",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/zamarawka/gulp-rev-origin/issues"
+  },
+  "homepage": "https://github.com/zamarawka/gulp-rev-origin#readme",
+  "dependencies": {
+    "through2": "^2.0.1",
+    "vinyl": "^1.1.1"
+  }
+}
